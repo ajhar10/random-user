@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "gender": "Male",
+    "name": "Ajharul Islam",
+    "contact": "01639076052",
+    "address": "Feni",
+    "photoUrl": "https://i.postimg.cc/pdBRBMgF/ajhar.png"
+  },
+  {
+    "id": 2,
+    "gender": "Male",
+    "name": "Michel Hussy",
+    "contact": "0178901111",
+    "address": "Chittagong",
+    "photoUrl": "https://media.istockphoto.com/photos/smiling-mixed-race-mature-man-on-grey-background-picture-id1319763895?b=1&k=20&m=1319763895&s=170667a&w=0&h=jhqKyg62cQVZ-NjDQjpcenCdHDrprkN4caRjk4K76E8="
+  },
+  {
+    "id": 3,
+    "gender": "Male",
+    "name": "Philips Antony",
+    "contact": "0181111197",
+    "address": "Chittagong",
+    "photoUrl": "https://media.istockphoto.com/photos/attractive-man-feeling-cheerful-picture-id1365223878?b=1&k=20&m=1365223878&s=170667a&w=0&h=kb0Ow5MJq0n5spA-BIEGLL18GugMqaBh7pnX-IyCfwY="
+  },
+  {
+    "id": 4,
+    "gender": "Male",
+    "name": "Michel Jackson",
+    "contact": "01923333311",
+    "address": "Dhaka",
+    "photoUrl": "https://media.istockphoto.com/photos/uhhhmm-picture-id520002309?k=20&m=520002309&s=612x612&w=0&h=04lzjetCsAIzxJYzw79V6Mu5GuPhPQLzdhEuKFmJBwk="
+  },
+  {
+    "id": 5,
+    "gender": "Female",
+    "name": "Angela Jhonson",
+    "contact": "0177711112",
+    "address": "Dhaka",
+    "photoUrl": "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?w=2000"
+  }
+]
